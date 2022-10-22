@@ -1,0 +1,10 @@
+KEEPSAFE Bank ATM machine 
+
+In this code I have built diffrent mechanism of Card Read, PIN verification, Overdrawing balance using Switch Case function
+In 1st case Card read have some array value limit of 12 digits.
+In 2nd case PIN verification array value limit has 4 digits which is pre declared value(PIN).
+In 3rd case Withdraw Overdrawing means when a person wants to withdraw an amount but not enough Account balance then overdraw takes place with fixed 
+extra amount to withdraw.
+
+HOPE YOU LIKE my code logic looking forward with you
+Thankyou ;)  
